@@ -10,4 +10,4 @@ weight: 1
 layout: team
 ---
 
-Founder, Tech Master:-)
+To be Completed:-)

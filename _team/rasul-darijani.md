@@ -10,4 +10,4 @@ weight: 2
 layout: team
 ---
 
-Cofounder, CEO:-)
+To be Completed:-)
