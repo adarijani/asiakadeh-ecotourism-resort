@@ -13,18 +13,18 @@ logo:
   desktop: "assets/images/svg/home.svg"
   desktop_height: "36px"
 
-#footer:
-#  copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+footer:
+  copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
 
 seo:
   meta_og_title: "Asiakadeh Ecotourism Resort"
   meta_og_type: "website"
   meta_og_url: "https://jekyll-serif.netlify.app"
-  meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
+  meta_og_image: "https://adarijani.github.io/asiakadeh-ecotourism-resort/assets/images/jpg/cover.jpg"
   meta_og_description: "Experience a Throwback into the Past"
-  meta_twitter_card: "summary"
-  meta_twitter_site: "@zerostaticio"
-  meta_twitter_creator: "@zerostaticio"
+  #meta_twitter_card: "summary"
+  #meta_twitter_site: "@zerostaticio"
+  #meta_twitter_creator: "@zerostaticio"
 
 collections:
   services:
