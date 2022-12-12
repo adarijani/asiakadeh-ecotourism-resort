@@ -2,11 +2,11 @@
   {
     "name": "Github",
     "link": "https://github.com/adarijani/asiakadeh-ecotourism-resort",
-    "image": "images/social/github.svg"
+    "image": "assets/images/social/github.svg"
   },
   {
     "name": "personal_website",
     "link": "https://adarijani.github.io",
-    "image": "images/social/personal.svg"
+    "image": "assets/images/social/personal.svg"
   }
 ]

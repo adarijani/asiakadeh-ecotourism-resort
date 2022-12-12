@@ -6,5 +6,5 @@ bodyClass: page-about
 ---
 
 
-![Cover](/images/jpg/cover.jpg)
+![Cover](assets/images/jpg/cover.jpg)
 
